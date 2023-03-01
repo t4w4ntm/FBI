@@ -1,0 +1,15 @@
+C:\Users\Tawan\Desktop\ws5\bin\Debug\net7.0\ws5.exe
+C:\Users\Tawan\Desktop\ws5\bin\Debug\net7.0\ws5.deps.json
+C:\Users\Tawan\Desktop\ws5\bin\Debug\net7.0\ws5.runtimeconfig.json
+C:\Users\Tawan\Desktop\ws5\bin\Debug\net7.0\ws5.dll
+C:\Users\Tawan\Desktop\ws5\bin\Debug\net7.0\ws5.pdb
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.csproj.AssemblyReference.cache
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.AssemblyInfoInputs.cache
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.AssemblyInfo.cs
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.csproj.CoreCompileInputs.cache
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.dll
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\refint\ws5.dll
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.pdb
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ws5.genruntimeconfig.cache
+C:\Users\Tawan\Desktop\ws5\obj\Debug\net7.0\ref\ws5.dll
